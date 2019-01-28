@@ -1,0 +1,15 @@
+﻿<Page x:Class="Cherrymotion.Update"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Cherrymotion"
+      mc:Ignorable="d" 
+      d:DesignHeight="380.769" d:DesignWidth="682.308"
+      Title="Update">
+
+    <Grid Margin="0,0,10,69" Background="White">
+        <Button Content="Button" HorizontalAlignment="Left" Height="54" Margin="222,107,0,0" VerticalAlignment="Top" Width="242"/>
+        <TextBox HorizontalAlignment="Left" Height="28" Margin="273,235,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="153"/>
+    </Grid>
+</Page>
